@@ -1,0 +1,8 @@
+[package]
+name = "vexel"
+version = "0.1.0"
+edition = "2021"
+authors = ["Tyler Critchlow", "Winch Team"]
+
+
+[dependencies]

@@ -9,7 +9,7 @@ linear algebra in Rust
 `vexel` is a linear algebra library for Rust, designed to be used for the Impulse Physics Engine. We are designing it to be fast and simple to use in other use cases as well. 
 
 It will provide a variety of features, including:
-- [ ] Vector Operations (Add, Sub, Mult, Div, Dot, Cross, Normalize, Length, Lerp, Projection/Rejection, Angle Between Vectors, Swizzling for Vector2, Vector3, Vector4)
+- [x] Vector Operations (Add, Sub, Mult, Div, Dot, Cross, Normalize, Length, Lerp, Projection/Rejection, Angle Between Vectors, Swizzling for Vector2, Vector3, Vector4)
 - [ ] Matrix Operations (Matrix Multiplication, Transpose, Determinant, Inverse, Identity Matrix, Matrix-Vector Multiplication, Row/Column Access, Matrix Decomposition, LookAt Matrix, Perspective Projection, Orthographic Projection for Mat2, Mat3, Mat4)
 - [ ] Utility Functions (Constants like PI, Clamping, Interpolation, Random Generation, Comparison)
 - [ ] Transformations (Translation, Rotation, Scaling, Shear, LookAt for camera transformation, Perspective/Orthographic Projection, Quaternion Support e.g. slerp, normalization, conjugation)

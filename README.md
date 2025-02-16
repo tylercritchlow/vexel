@@ -1,8 +1,8 @@
+<h1 align='center'>
+<code>vexel</code>
+</h1>
 <div align='center'>
-<code>Vexel</code>
-<div align='center'>
-Another option for linear algebra in Rust
-</div>
+linear algebra in Rust
 </div>
 
 ## Overview

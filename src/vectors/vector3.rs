@@ -98,7 +98,7 @@ impl<T> Vector3<T> {
     /// let expected = Vector3::new(
     ///     3.0 / magnitude,
     ///     6.0 / magnitude,
-    ///     12.0 / magnitude,¬
+    ///     12.0 / magnitude,
     /// );
     ///
     /// assert!((normalized.x - expected.x).abs() < 1e-6);

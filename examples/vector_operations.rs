@@ -113,4 +113,9 @@ fn main() {
     );
 
     println!("========================================");
+
+    let v1 = Vector3::new(1.0, 0.0, -3.0);
+    let v2 = Vector3::new(0.0, 1.0, 2.0);
+    let angle = v1.angle_between(&v2);
+    println!("Angle between Vector3 (radians): {}", angle);
 }
